@@ -1,4 +1,4 @@
-=== KasiryeLabs AJAX Fix for ACF ===
+=== AJAX Fix for ACF ===
 Contributors: kasirye
 Tags: acf, ajax, fix, fields, custom-fields
 Requires at least: 5.8
@@ -18,7 +18,7 @@ It ensures more reliable AJAX requests and improves compatibility with themes an
 * Compatible with Advanced Custom Fields (free and Pro).
 
 == Installation ==
-1. Upload the `kasiryelabs-ajax-fix-for-acf` folder to the `/wp-content/plugins/` directory.
+1. Upload the `ajax-fix-for-acf` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
 3. The fix applies automatically—no setup required.
 
@@ -41,4 +41,4 @@ No. The plugin only adjusts AJAX handling for ACF-related calls.
 == Upgrade Notice ==
 
 = 1.0.0 =
-First release of KasiryeLabs AJAX Fix for ACF.
+First release of AJAX Fix for ACF.
